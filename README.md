@@ -39,14 +39,23 @@ Use the [VM Setup Guide](https://www.cs.usfca.edu/~mmalensek/cs326/schedule/mate
 to create your shiny new virtual machine. **Please read the instructions
 carefully**. There is plenty of time to complete the lab, so don't rush it.
 
+## Team IDs
+
+Please enter each team member's CS 326 ID number below:
+
+* Name 1: ID 1
+* Name 2: ID 2
+* Name 3: ID 3
+* Name 4: ID 4
 
 ## Grading
 
 To get credit for this lab, you must:
 
-1. Show us that your whole team can log in to their VMs directly via
+1. Fill in your team's CS 326 IDs above
+2. Show us that your whole team can log in to their VMs directly via
    an ssh alias without entering a password first.
-2. Have one of the course staff run our VM test script to verify your VM is
+3. Have one of the course staff run our VM test script to verify your VM is
    configured correctly.
-3. Show us your lab notebook above and be prepared to explain each item in detail.
+4. Show us your lab notebook above and be prepared to explain each item in detail.
 
