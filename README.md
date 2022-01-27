@@ -16,22 +16,21 @@ CS support in person or via email (support@cs.usfca.edu) immediately.
    This gives you a Linux development environment on your Windows machine so
    that you can follow class tutorials using the same steps as the Mac/Linux
    users in class.
+      * Alternatively, the latest versions of windows will let you install OpenSSH. That may be all you need.
+      * Older versions of Windows will need an SSH client, such as PuTTY or MobaXTerm.
 
 Done with that? Ok, moving right along...
 
-
 ## Lab Notebook
 
-As you work through the following guide, you will encounter terminology, commands,
-and concepts that you probably haven't seen before. Make a list of **4** such
-concepts below (one per group member), and include a paragraph or two explaining
-what they are used for.
-
-1. Terminology/command/concept 1 -- Explanation.
-2. Terminology/command/concept 2 -- Explanation.
-3. Terminology/command/concept 3 -- Explanation.
-4. Terminology/command/concept 4 -- Explanation.
-
+As you work through the guide linked below, you will probably see some commands you've already
+used in previous classes. Please list each command that you've already seen in a new file in
+this repo named `username-commands.txt`. For example, my `mmalensek-commands.txt` might contain:
+```
+bash
+ls
+cd
+```
 
 ## Setup Guide
 
@@ -53,9 +52,7 @@ Please enter each team member's CS 326 ID number below:
 To get credit for this lab, you must:
 
 1. Fill in your team's CS 326 IDs above
-2. Show us that your whole team can log in to their VMs directly via
-   an ssh alias without entering a password first.
+2. Check in your lab notebook (`username-commands.txt`) to this repo
 3. Have one of the course staff run our VM test script to verify your VM is
    configured correctly.
-4. Show us your lab notebook above and be prepared to explain each item in detail.
 
