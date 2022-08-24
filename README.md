@@ -5,7 +5,7 @@ remainder of the semester.
 
 Before you get started, please make sure you can log in to the CS network
 machines. (`ssh USERNAME@stargate.cs.usfca.edu`). If you can't, contact
-CS support in person or via email (support@cs.usfca.edu) immediately.
+CS support in person or via email (support@cs.usfca.edu).
 
 ## Prerequisites
 1. [Passwordless ssh](https://www.cs.usfca.edu/~mmalensek/cs326/schedule/materials/ssh.html)
